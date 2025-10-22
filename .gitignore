@@ -364,7 +364,7 @@ Infrastructure/Migrations/
 FodyWeavers.xsd
 
 # App settings with secrets
-appsettings.json
-appsettings.Development.json
-appsettings.local.json
 /Api/appsettings.json
+/Api/appsettings.Development.json
+
+/Infrastructure/Migrations
