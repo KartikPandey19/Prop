@@ -367,3 +367,4 @@ FodyWeavers.xsd
 appsettings.json
 appsettings.Development.json
 appsettings.local.json
+/Api/appsettings.json
